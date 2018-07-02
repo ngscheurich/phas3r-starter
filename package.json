@@ -1,8 +1,8 @@
 {
   "name": "phaser3-starter",
   "version": "0.1.0",
-  "description": "Starter project for a Phaser 3 game using TypeScript.",
-  "main": "index.js",
+  "description": "🕹 Boilerplate that I use as a starting point for my Phaser 3 games.",
+  "main": "src/index.js",
   "author": {
     "name": "N. G. Scheurich",
     "email": "nick@scheurich.me"
