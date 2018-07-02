@@ -1,5 +1,6 @@
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 
 module.exports = {
   mode: 'development',
@@ -21,12 +22,13 @@ module.exports = {
     path: path.resolve(__dirname, 'build'),
   },
   plugins: [
-    new HtmlWebpackPlugin({
-      title: 'Phaser 3 Game',
-    }),
+    new HtmlWebpackPlugin({ title: 'Phaser 3 Game' }),
+    new CopyWebpackPlugin([
+      { from: path.resolve(__dirname, 'assets', '**', '*'), to: '.' },
+    ]),
   ],
   devServer: {
-    contentBase: path.relative(__dirname, 'build'),
+    contentBase: path.relative(__dirname, '/'),
     port: 8080,
   },
 }
