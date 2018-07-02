@@ -11,6 +11,6 @@ const Keys = {
   ANIM_PLAYER_LEFT: 'playerLeft',
   ANIM_PLAYER_RIGHT: 'playerRight',
   ANIM_PLAYER_IDLE: 'playerIdle',
-}
+};
 
-export default Keys
+export default Keys;

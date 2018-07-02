@@ -1,10 +1,10 @@
-import 'phaser'
-import BootScene from './scenes/BootScene'
-import GameScene from './scenes/GameScene'
+import 'phaser';
+import BootScene from './scenes/BootScene';
+import GameScene from './scenes/GameScene';
 
 class Game extends Phaser.Game {
   constructor(gameConfig: GameConfig) {
-    super(gameConfig)
+    super(gameConfig);
   }
 }
 
@@ -20,6 +20,6 @@ const config: GameConfig = {
     default: 'arcade',
   },
   scene: [BootScene, GameScene],
-}
+};
 
-window.onload = () => new Game(config)
+window.onload = () => new Game(config);

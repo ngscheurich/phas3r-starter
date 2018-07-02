@@ -1,4 +1,4 @@
-import Keys from './keys'
+import Keys from './keys';
 
 export default function loadAnimations(scene: Phaser.Scene) {
   scene.anims.create({
@@ -9,7 +9,7 @@ export default function loadAnimations(scene: Phaser.Scene) {
     }),
     frameRate: 10,
     repeat: -1,
-  })
+  });
 
   scene.anims.create({
     key: Keys.ANIM_PLAYER_RIGHT,
@@ -19,11 +19,11 @@ export default function loadAnimations(scene: Phaser.Scene) {
     }),
     frameRate: 10,
     repeat: -1,
-  })
+  });
 
   scene.anims.create({
     key: Keys.ANIM_PLAYER_IDLE,
     frames: [{ key: 'dude', frame: 4 }],
     frameRate: 20,
-  })
+  });
 }
