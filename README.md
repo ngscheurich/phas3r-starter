@@ -57,9 +57,10 @@ If you do submit a PR, please adhere to the [Code of Conduct](https://github.com
 
 ## Licenses
 
-This project is an approximation of the game built in [Richard Davey](https://twitter.com/photonstorm)’s
-article series _[Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game)_. The related art assets are distributed with [Richard’s permission](https://twitter.com/photonstorm/status/1013889130063908865).
-
 This project is [MIT © Nicholas Scheurich](https://github.com/ngscheurich/phas3r-starter/blob/master/LICENSE).
 Phaser is [MIT © Richard Davey, Photon Storm Ltd](https://github.com/photonstorm/phaser/blob/master/license.txt).
 All logos are copyright their respective owners.
+
+The included demo game is an approximation of the one built in [Richard Davey](https://twitter.com/photonstorm)’s
+article series _[Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game)_. The related art assets are distributed with [Richard’s permission](https://twitter.com/photonstorm/status/1013889130063908865).
+
