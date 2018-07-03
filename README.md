@@ -23,7 +23,7 @@ I guess that’s it but man does this thing _offer_ all that, you know?
 
 First, clone this repo but name it something cooler:
 
-    $ git clone https://github.com/ngscheurich/phaser-3-starter.git journey-to-the-depths-of-blood-mountain
+    $ git clone https://github.com/ngscheurich/phas3r-starter.git journey-to-the-depths-of-blood-mountain
 
 Now hop on into your new directory and install the project’s dependencies:
 
