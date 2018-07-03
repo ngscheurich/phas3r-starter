@@ -47,13 +47,13 @@ Ready to distribute your game to the ravenous masses?
 
     $ yarn build
 
-This will make a production-ready version of your game in a directory called `dist`; throw it up on the Internet somewhere. [Netlify](https://www.netlify.com/) might be a good choice.
+This will make a production-ready version of your game in a directory called `dist`; toss it up on the Internet somewhere. [Netlify](https://www.netlify.com/) might be a good choice.
 
 ## Contributing
 
 Pull requests are gladly accepted, however this is an admittedly opinionated setup based on my personal preferences. If you’re looking to make big changes to workflow or tooling you should fork the project.
 
-If you do submit a PR, please adhere to the code of conduct.
+If you do submit a PR, please adhere to the [Code of Conduct](https://github.com/ngscheurich/phas3r-starter/blob/master/CODE_OF_CONDUCT.md).
 
 ## Licenses
 
