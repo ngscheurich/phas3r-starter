@@ -1,5 +1,4 @@
-<p align="center"><img alt="Phas3r Starter Kit" src="assets/banner.png" width="410" height="333"></p>
-<br>
+<p align="center"><img alt="Phas3r Starter Kit" src="assets/banner.png" width="378" height="282"></p>
 <br>
 
 Have you been wanting to start a project with the Phaser 3 game engine but just _don’t have the time_ to set up a good dev/build process? Well boy howdy have you come to the right place! My **Phaser 3 Starter Kit** offers everything you need and more, including:
