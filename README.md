@@ -1,4 +1,4 @@
-<p text-align="center">![Phas3r Starter Kit](assets/phas3r.png)</p>
+<p text-align="center">![Phas3r Starter Kit](assets/banner.png)</p>
 
 # 🕹 Phaser 3 Starter Kit
 
